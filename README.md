@@ -1,4 +1,4 @@
 - Hello,
 - 
-- I’m Leonardo Marcarini. I'm actevely looking for a job in developing.
+- I’m Leonardo Marcarini. I'm actively looking for a job in developing.
 - If you are interested, contact me at https://www.linkedin.com/in/leomarcarini/
