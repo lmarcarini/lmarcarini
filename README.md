@@ -1,4 +1,4 @@
-- Hello,
-- 
-- I’m Leonardo Marcarini. I'm actively looking for a job in developing.
-- If you are interested, contact me at https://www.linkedin.com/in/leomarcarini/
+Hello,
+
+I’m Leonardo Marcarini. I currently work for Valtech as a Frontend Developer.
+I am also in linkedin, contact me at https://www.linkedin.com/in/leomarcarini/
